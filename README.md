@@ -323,7 +323,7 @@ copies or substantial portions of the Software.
 
 **Akshit Raj**
 
-- 📧 Email: [your.email@example.com](akshitraj03@gmail.com)
+- 📧 Email: (akshitraj03@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/akshitraj](https://www.linkedin.com/in/akshit-raj-6aa776200/)
 - 🐙 GitHub: [@akshitraj](https://github.com/akkii01)
 - 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
@@ -370,7 +370,7 @@ The goal was to create a production-ready application that showcases:
 
 ### 🔗 [Try Live Demo](https://huggingface.co/spaces/akshitraj/ai-content-generator)
 
-**Built with ❤️ by [Akshit Raj](https://github.com/akshitraj)**
+**Built with ❤️ by [Akshit Raj](https://github.com/akkii01)**
 
 *Transforming ideas into AI-powered solutions*
 
