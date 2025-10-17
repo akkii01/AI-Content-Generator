@@ -15,7 +15,7 @@ Generate professional marketing content for LinkedIn, Instagram, and Email platf
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
+- [Overview](https://github.com/akkii01/AI-Content-Generator/blob/main/README.md#-overview)
 - [Features](#features)
 - [Demo](#demo)
 - [How It Works](#how-it-works)
