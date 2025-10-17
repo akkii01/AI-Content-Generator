@@ -215,22 +215,6 @@ print("Email Subjects:", email)
 
 ---
 
-## 📸 Screenshots
-
-### Main Interface
-![Main Interface](screenshots/main-interface.png)
-*Clean, intuitive interface for content generation*
-
-### Generated Content Examples
-![LinkedIn Output](screenshots/linkedin-output.png)
-*Professional LinkedIn post with industry-specific insights*
-
-![Instagram Output](screenshots/instagram-output.png)
-*Engaging Instagram caption with emojis and hashtags*
-
-![Email Output](screenshots/email-output.png)
-*Conversion-optimized email subject lines with analytics*
-
 ---
 
 ## 🎓 Skills Demonstrated
