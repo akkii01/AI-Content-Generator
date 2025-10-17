@@ -23,7 +23,6 @@ Generate professional marketing content for LinkedIn, Instagram, and Email platf
 - [Installation](https://github.com/akkii01/AI-Content-Generator/blob/main/README.md#-installation)
 - [Usage](https://github.com/akkii01/AI-Content-Generator/blob/main/README.md#-usage)
 - [Project Impact](https://github.com/akkii01/AI-Content-Generator/blob/main/README.md#-project-impact)
-- [Screenshots](https://github.com/akkii01/AI-Content-Generator/blob/main/README.md#-screenshots)
 - [Skills Demonstrated](https://github.com/akkii01/AI-Content-Generator/blob/main/README.md#-skills-demonstrated)
 - [Future Enhancements](https://github.com/akkii01/AI-Content-Generator/blob/main/README.md#-future-enhancements)
 - [Contributing](https://github.com/akkii01/AI-Content-Generator/blob/main/README.md#-contributing)
