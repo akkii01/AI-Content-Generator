@@ -323,7 +323,7 @@ copies or substantial portions of the Software.
 
 **Akshit Raj**
 
-- 📧 Email: [My Email](akshitraj03@gmail.com)
+- 📧 Email: (akshitraj03@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/akshitraj](https://www.linkedin.com/in/akshit-raj-6aa776200/)
 - 🐙 GitHub: [@akshitraj](https://github.com/akkii01)
 - 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
