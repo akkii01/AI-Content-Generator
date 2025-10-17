@@ -16,19 +16,19 @@ Generate professional marketing content for LinkedIn, Instagram, and Email platf
 ## 📋 Table of Contents
 
 - [Overview](https://github.com/akkii01/AI-Content-Generator?tab=readme-ov-file#-overview)
-- [Features](#features)
-- [Demo](#demo)
-- [How It Works](#how-it-works)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Impact](#project-impact)
-- [Screenshots](#screenshots)
-- [Skills Demonstrated](#skills-demonstrated)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Features](https://github.com/akkii01/AI-Content-Generator/blob/main/README.md#-features)
+- [Demo](https://github.com/akkii01/AI-Content-Generator/blob/main/README.md#-demo)
+- [How It Works](https://github.com/akkii01/AI-Content-Generator/blob/main/README.md#-how-it-works)
+- [Tech Stack](https://github.com/akkii01/AI-Content-Generator/blob/main/README.md#%EF%B8%8F-tech-stack)
+- [Installation](https://github.com/akkii01/AI-Content-Generator/blob/main/README.md#-installation)
+- [Usage](https://github.com/akkii01/AI-Content-Generator/blob/main/README.md#-usage)
+- [Project Impact](https://github.com/akkii01/AI-Content-Generator/blob/main/README.md#-project-impact)
+- [Screenshots](https://github.com/akkii01/AI-Content-Generator/blob/main/README.md#-screenshots)
+- [Skills Demonstrated](https://github.com/akkii01/AI-Content-Generator/blob/main/README.md#-skills-demonstrated)
+- [Future Enhancements](https://github.com/akkii01/AI-Content-Generator/blob/main/README.md#-future-enhancements)
+- [Contributing](https://github.com/akkii01/AI-Content-Generator/blob/main/README.md#-contributing)
+- [License](https://github.com/akkii01/AI-Content-Generator/blob/main/README.md#-license)
+- [Contact](https://github.com/akkii01/AI-Content-Generator/blob/main/README.md#-contact)
 
 ---
 
@@ -323,9 +323,9 @@ copies or substantial portions of the Software.
 
 **Akshit Raj**
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/akshitraj](https://linkedin.com/in/akshitraj)
-- 🐙 GitHub: [@akshitraj](https://github.com/akshitraj)
+- 📧 Email: [your.email@example.com](akshitraj03@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/akshitraj](https://www.linkedin.com/in/akshit-raj-6aa776200/)
+- 🐙 GitHub: [@akshitraj](https://github.com/akkii01)
 - 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
 ---
@@ -403,9 +403,9 @@ The goal was to create a production-ready application that showcases:
 
 **IMPORTANT: Update these placeholders with YOUR info:**
 
-1. **Email**: Replace `your.email@example.com` with your actual email
-2. **LinkedIn**: Replace with your actual LinkedIn URL
-3. **GitHub username**: Replace `akshitraj` with YOUR GitHub username (appears multiple times)
+1. **Email**: akshitraj03@gmail.com
+2. **LinkedIn**: https://www.linkedin.com/in/akshit-raj-6aa776200/
+3. **GitHub username**: akkii01
 4. **Portfolio**: Add your portfolio URL if you have one, or remove that line
 
 ### **To edit again:**
@@ -471,11 +471,11 @@ To make your README perfect with actual screenshots:
 ```
 🚀 Live Tool: https://huggingface.co/spaces/akshitraj/ai-content-generator
 
-🐙 GitHub: https://github.com/[your-username]/AI-Content-Generator
+🐙 GitHub: https://github.com/akkii01/AI-Content-Generator
 
 💼 LinkedIn Post: [Your LinkedIn post URL]
 
-📄 Documentation: [Your Google Drive PDF link]
+📄 Documentation: [https://drive.google.com/file/d/1so3Q-uNJliuYbpKJAvCRJdMmO1kZMywj/view?usp=sharing]
 ```
 
 ---
@@ -489,7 +489,7 @@ Projects:
   - Built AI tool using Python, Gradio, and Mistral-7B
   - Achieved 98% time reduction in content creation
   - Live: https://huggingface.co/spaces/akshitraj/ai-content-generator
-  - Code: https://github.com/[username]/AI-Content-Generator
+  - Code: https://github.com/akkii01/AI-Content-Generator
 ```
 
 ### **In Cover Letters:**
@@ -497,7 +497,7 @@ Projects:
 "I recently built an AI-Powered Content Generator that demonstrates 
 my ability to apply machine learning to solve real business problems. 
 The project reduced content creation time by 98% and is deployed at 
-[your-huggingface-link]."
+[https://huggingface.co/spaces/akshitraj/ai-content-generator]."
 ```
 
 ### **In LinkedIn Messages to Recruiters:**
@@ -512,8 +512,8 @@ The project demonstrates:
 - Full-stack development
 - Cloud deployment
 
-Live demo: [your-link]
-GitHub: [your-github]
+Live demo: [https://huggingface.co/spaces/akshitraj/ai-content-generator]
+GitHub: [https://github.com/akkii01]
 
 Would love to discuss how my skills align with your needs!
 
