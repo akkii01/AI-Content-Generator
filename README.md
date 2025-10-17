@@ -471,7 +471,7 @@ To make your README perfect with actual screenshots:
 ```
 🚀 Live Tool: https://huggingface.co/spaces/akshitraj/ai-content-generator
 
-🐙 GitHub: https://github.com/akkii01/AI-Content-Generator
+🐙 GitHub: https://github.com/akkii01
 
 💼 LinkedIn Post: [Your LinkedIn post URL]
 
