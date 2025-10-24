@@ -9,7 +9,7 @@
 
 Generate professional marketing content for LinkedIn, Instagram, and Email platforms simultaneously using AI-powered technology.
 
-**🔗 [Try Live Demo](https://huggingface.co/spaces/akshitraj/ai-content-generator)** | **📄 [View Documentation](https://drive.google.com/file/d/1so3Q-uNJliuYbpKJAvCRJdMmO1kZMywj/view?usp=sharing)**
+**🔗 [Try Live Demo](https://huggingface.co/spaces/akshitraj/ai-content-generator)** | **📄 [View Documentation](https://drive.google.com/file/d/1so3Q-uNJliuYbpKJAvCRJdMmO1kZMywj/view?usp=sharing)** | **📄 [Project Result](https://drive.google.com/file/d/1TBwQbm9fTBOOZTVtOeL_kylk5wGPj9JJ/view?usp=sharing)**
 
 ---
 
